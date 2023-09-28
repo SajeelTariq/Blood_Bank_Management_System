@@ -1,0 +1,33 @@
+Name: Sajeel
+Contact: 03172288196
+Age: 19
+Gender: M
+Weight: 57
+Blood type: A-
+hb: 14
+Pulse rate: 60
+Systolic Blood Pressure: 91
+Diastolic Blood Pressure: 61
+Recieving date: 14-07-2023
+Name: Faraz
+Contact: 03222711413
+Age: 20
+Gender: M
+Weight: 60
+Blood type: B+
+hb: 14
+Pulse rate: 60
+Systolic Blood Pressure: 91
+Diastolic Blood Pressure: 61
+Recieving date: 14-07-2023
+Name: Samia
+Contact: 1234567
+Age: 19
+Gender: F
+Weight: 60
+Blood type: A-
+hb: 14
+Pulse rate: 60
+Systolic Blood Pressure: 91
+Diastolic Blood Pressure: 61
+Recieving date: 14-07-2023

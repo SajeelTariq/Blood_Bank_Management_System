@@ -1,0 +1,36 @@
+
+
+
+Name: Sajeel
+Contact: 03172288196
+Age: 19
+Gender: M
+Weight: 55
+Blood type: A-
+hb: 14
+Pulse rate: 60
+Systolic Blood Pressure: 91
+Diastolic Blood Pressure: 61
+Donation date: 14-07-2023
+Name: Faisal
+Contact: 03063067429
+Age: 19
+Gender: M
+Weight: 90
+Blood type: A+
+hb: 14
+Pulse rate: 60
+Systolic Blood Pressure: 91
+Diastolic Blood Pressure: 61
+Donation date: 14-07-2023
+Name: Hunaiza
+Contact: 12345678901
+Age: 18
+Gender: F
+Weight: 55
+Blood type: B-
+hb: 13
+Pulse rate: 60
+Systolic Blood Pressure: 91
+Diastolic Blood Pressure: 61
+Donation date: 14-07-2023
